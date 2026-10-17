@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+data/
+venv/
+.venv/
+
+# macOS junk
+.DS_Store
+
+# Large data archive (528 MB, over GitHub's 100 MB limit)
+motion_text_7000.zip
+*.zip
